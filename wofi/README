@@ -1,0 +1,5 @@
+ADD TO HYPRLAND.CONF
+
+layerrule = blur, wofi
+layerrule = ignorezero, wofi
+layerrule = ignorealpha 0.5, wofi
